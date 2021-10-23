@@ -7,7 +7,6 @@
 [![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)](https://reactjs.org/)
 
 <hr>
-[![hyodamon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyodamon)](https://github.com/hyodamon)
 
 <div>
   
