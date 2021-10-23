@@ -1,5 +1,5 @@
 # 양효준 Yang Hyo Jun 
-:computer: FE Developer
+:computer: FE Developer  
  👨‍🎓 Inha Univ. Industrial Engineering & Software and Convergence Engineering
 
 [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)](https://javascript.info/)
