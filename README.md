@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Hello!&height=180&fontSize=90&desc=HyodaMon's%20GitHub&descAlignY=73&descAlign=60)
 <div align=center>
   
-  <h6>:computer:  <b>FE Developer</b><br></h6>
+  <h6>:computer:  <b>FE Developer</b></h6>
   <h6>👨‍🎓  <b>Inha Univ.</b> Industrial Engineering & Software and Convergence Engineering</h6>
 
   <hr>
