@@ -5,8 +5,7 @@
 <div align=center>
   
   <h3>:wave: Introduction </h3>
-  :computer:  FE Developer<br/>
-  👨‍🎓  Inha Univ. Industrial Engineering & Software and Convergence Engineering
+ Inha Univ. Industrial Engineering & Software and Convergence Engineering
   
 <br/><br/>
   
