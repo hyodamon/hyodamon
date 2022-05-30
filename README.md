@@ -11,14 +11,20 @@
 <br/><br/>
   
   <h3>:wrench: My Skiil</h3>
-
+  [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://javascript.info/)
   [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)](https://javascript.info/)
   [![TypeScript Badge](https://img.shields.io/badge/Typescript-235A97?style=flat-square&logo=Typescript&logoColor=white)](https://www.typescriptlang.org/)
   [![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)](https://reactjs.org/)
   [![ReactNative Badge](https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=white)](https://reactnative.dev/)
   [![styled Badge](https://img.shields.io/badge/Styled-DB7093?style=flat-square&logo=styled-components&logoColor=white)](https://www.apollographql.com/)
   [![Redux Badge](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white)](https://ko.redux.js.org/introduction/getting-started/)
+  
+<br/><br/>
+  
+  <h3>:pencil2: Studying</h3>
 
+  [![Swift Badge](https://img.shields.io/badge/swift-F05138?style=flat-square&logo=swift&logoColor=white)](https://developer.apple.com/kr/swift/)
+  [![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](https://developer.apple.com/kr/swift/)
 <br/><br/>
   <div>
     
