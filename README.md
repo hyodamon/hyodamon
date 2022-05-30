@@ -2,8 +2,8 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Hello!&height=180&fontSize=90&desc=HyodaMon's%20GitHub&descAlignY=73&descAlign=60)
 <div align=center>
   
-  <h5>:computer:  <b>FE Developer</b></h5>
-  <h5>👨‍🎓  <b>Inha Univ.</b> Industrial Engineering & Software and Convergence Engineering</h5>
+  <h6>:computer:  <b>FE Developer</b></h6>
+  <h6>👨‍🎓  <b>Inha Univ.</b> Industrial Engineering & Software and Convergence Engineering</h6>
 
   <hr>
 
@@ -14,7 +14,7 @@
   [![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)](https://reactjs.org/)
   [![ReactNative Badge](https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=white)](https://reactnative.dev/)
   [![styled Badge](https://img.shields.io/badge/Styled-DB7093?style=flat-square&logo=styled-components&logoColor=white)](https://www.apollographql.com/)
-
+  [![Redux Badge](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=styled-Redux&logoColor=white)](https://ko.redux.js.org/introduction/getting-started/)
 
   <hr>
 
