@@ -19,7 +19,7 @@
   [![Redux Badge](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white)](https://ko.redux.js.org/introduction/getting-started/)
   
   <h3>:pencil2: Studying</h3>
-  [![Swift Badge](https://img.shields.io/badge/swift-F05138?style=flat-square&logo=swift&logoColor=white)](https://developer.apple.com/kr/swift/)
+  [![Swift Badge](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white)](https://developer.apple.com/kr/swift/)
   [![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](https://developer.apple.com/kr/swift/)
  
   <h3>:pushpin: My space</h3>
