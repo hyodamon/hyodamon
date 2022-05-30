@@ -27,12 +27,11 @@
   [![Swift Badge](https://img.shields.io/badge/swift-F05138?style=flat-square&logo=swift&logoColor=white)](https://developer.apple.com/kr/swift/)
   [![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](https://developer.apple.com/kr/swift/)
 <br/><br/>
+
+  <h3>:pushpin: My space</h3>
+
+  [![My Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@hyoda_mon)
   
-<br/><br/>
-
-<h3>:pushpin: My space</h3>
-
-  [![My Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white)](https://developer.apple.com/kr/swift/)
   
   <div>
     
