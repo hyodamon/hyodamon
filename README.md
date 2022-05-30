@@ -1,4 +1,6 @@
 # 양효준 Yang Hyo Jun 
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 :computer:  <b>FE Developer</b>  
  👨‍🎓  <b>Inha Univ.</b> Industrial Engineering & Software and Convergence Engineering
 
