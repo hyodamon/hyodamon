@@ -5,7 +5,7 @@
 <div align=center>
   
   <h3>:wave: Introduction </h3>
-  <b>Inha Univ</b>
+  <b>Inha Univ</b><br/>
   Industrial Engineering & Software and Convergence Engineering
   
 <br/><br/>
