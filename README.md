@@ -14,7 +14,7 @@
   [![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)](https://reactjs.org/)
   [![ReactNative Badge](https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=white)](https://reactnative.dev/)
   [![styled Badge](https://img.shields.io/badge/Styled-DB7093?style=flat-square&logo=styled-components&logoColor=white)](https://www.apollographql.com/)
-  [![Redux Badge](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=styled-Redux&logoColor=white)](https://ko.redux.js.org/introduction/getting-started/)
+  [![Redux Badge](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white)](https://ko.redux.js.org/introduction/getting-started/)
 
   <hr>
 
