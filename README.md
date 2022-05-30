@@ -2,8 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Hi,%20there!&height=180&fontSize=80&desc=HyodaMon's%20GitHub&descAlignY=73&descAlign=60)
 
-<br/><br/>
-
 <div align=center>
   
   <h3>:wave: Introduction </h3>
