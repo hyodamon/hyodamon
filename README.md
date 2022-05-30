@@ -1,6 +1,6 @@
 # 양효준 Yang Hyo Jun 
 
-![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Hi%20there!&height=180&fontSize=90&desc=HyodaMon's%20GitHub&descAlignY=73&descAlign=60)
+![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Hi,%20there!&height=180&fontSize=90&desc=HyodaMon's%20GitHub&descAlignY=73&descAlign=60)
 
 <br/><br/>
 
