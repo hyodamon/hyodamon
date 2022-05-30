@@ -1,5 +1,5 @@
 # 양효준 Yang Hyo Jun 
-![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Hello!&height=150&fontSize=60&desc=HyodaMon's%20GitHub&descAlignY=85&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Hello!&height=150&fontSize=90&desc=HyodaMon's%20GitHub&descAlignY=85&descAlign=70)
 
 :computer:  <b>FE Developer</b>  
  👨‍🎓  <b>Inha Univ.</b> Industrial Engineering & Software and Convergence Engineering
