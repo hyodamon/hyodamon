@@ -31,6 +31,8 @@
     
     ![github stats](https://github-readme-stats.vercel.app/api?username=hyodamon)
     
+    [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hyoda_mon)](https://solved.ac/hyoda_mon)<br/>
+
   </div>
   
 </div>
