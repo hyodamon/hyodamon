@@ -4,7 +4,7 @@
   
   <h6>:computer:  <b>FE Developer</b></h6>
   <h6>👨‍🎓  <b>Inha Univ.</b> Industrial Engineering & Software and Convergence Engineering</h6>
-
+<br/><br/>
   <h3>:wrench: My Skiil</h3>
 
   [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)](https://javascript.info/)
@@ -14,7 +14,7 @@
   [![styled Badge](https://img.shields.io/badge/Styled-DB7093?style=flat-square&logo=styled-components&logoColor=white)](https://www.apollographql.com/)
   [![Redux Badge](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white)](https://ko.redux.js.org/introduction/getting-started/)
 
-
+<br/><br/>
   <div>
     
     ![github stats](https://github-readme-stats.vercel.app/api?username=hyodamon)
